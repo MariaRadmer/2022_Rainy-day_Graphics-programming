@@ -1,0 +1,28 @@
+# Blender MTL File: 'house_LOD0.blend'
+# Material Count: 2
+
+newmtl Bricks
+Ns 79.984346
+Ka 0.010000 0.010000 0.010000
+Kd 0.800000 0.067055 0.024847
+Ks 0.138182 0.138182 0.138182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 -s 15.299999 16.900000 1.000000 HousebodyNormal.png
+map_Kd -s 15.299999 16.900000 1.000000 HousebodyAlbedo.png
+map_Ns -s 15.299999 16.900000 1.000000 HousebodyAo.png
+
+newmtl Bricks.002
+Ns 79.984346
+Ka 0.010000 0.010000 0.010000
+Kd 0.800000 0.067055 0.024847
+Ks 0.138182 0.138182 0.138182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 -s 10.000000 10.000000 1.000000 HousebodyNormal.png
+map_Kd -s 10.000000 10.000000 1.000000 HousebodyAlbedo.png
+map_Ns -s 10.000000 10.000000 1.000000 HousebodyAo.png

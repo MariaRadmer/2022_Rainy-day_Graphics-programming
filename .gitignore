@@ -1,3 +1,10 @@
+/cmake-build-debug/*
+/cmake-build-release/*
+/.idea/*
+/student_projects/*
+
+.DS_Store
+
 # Prerequisites
 *.d
 
@@ -5,7 +12,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+#*.obj
 
 # Precompiled Headers
 *.gch
